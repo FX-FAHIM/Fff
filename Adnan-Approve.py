@@ -1292,7 +1292,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MR-ALONE786/File-Cloning/blob/main/Approved.txt').text
+    prox= requests.get('https://github.com/FX-FAHIM/Fff/edit/main/Fxf').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
